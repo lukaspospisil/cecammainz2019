@@ -1,8 +1,6 @@
 clear all
 
 addpath(genpath('ProgramFiles')) % add all files in 'ProgramFiles' directory
-addpath('data/signal') % benchmark generator
-addpath('build')
 
 %% define sample signal
 Trepeat = 1;
